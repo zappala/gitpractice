@@ -1,7 +1,5 @@
 one
 two
-three
-four
 nine
 ten
 five hundred
